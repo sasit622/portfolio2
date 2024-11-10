@@ -15,7 +15,7 @@ body {
 
 /* Header styling with background image */
 header {
-    background-image: url('background.jpg'); /* Replace with your image file path */
+    background-image: url('https://github.com/sasit622/portfolio2/blob/d1802e0bfc03de06f98fadccd722152ed423df49/1.jpg'); /* Replace with your image file path */
     background-size: cover;
     background-position: center;
     color: #fff;
